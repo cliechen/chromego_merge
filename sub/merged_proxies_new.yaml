@@ -426,7 +426,7 @@ proxies:
     headers:
       Host: gtm1.ktmwan.net
     path: /
-- name: None_None_trojan_1129
+- name: United States_San Francisco_trojan_1129
   network: ws
   password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 2087
@@ -486,7 +486,7 @@ proxies:
     headers:
       Host: 17708034068543.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: None_None_trojan_1134
+- name: United States_San Francisco_trojan_1134
   network: ws
   password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 8443
@@ -654,7 +654,7 @@ proxies:
     headers:
       Host: 17708034069318.206356.xyz
     path: '%2Fdmusicmuaawe'
-- name: None_None_trojan_1148
+- name: United States_None_trojan_1148
   network: ws
   password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 2096
@@ -1223,12 +1223,12 @@ proxy-groups:
   - China_None_vmess_1126
   - Taiwan_Chiayi City_trojan_1127
   - United Kingdom_None_vmess_1128
-  - None_None_trojan_1129
+  - United States_San Francisco_trojan_1129
   - None_None_trojan_1130
   - None_None_trojan_1131
   - None_None_trojan_1132
   - None_None_trojan_1133
-  - None_None_trojan_1134
+  - United States_San Francisco_trojan_1134
   - United States_San Francisco_trojan_1135
   - None_None_trojan_1136
   - None_None_trojan_1137
@@ -1242,7 +1242,7 @@ proxy-groups:
   - None_None_trojan_1145
   - None_None_trojan_1146
   - None_None_trojan_1147
-  - None_None_trojan_1148
+  - United States_None_trojan_1148
   - United States_None_trojan_1149
   - None_None_trojan_1150
   - None_None_trojan_1151
@@ -1355,12 +1355,12 @@ proxy-groups:
   - China_None_vmess_1126
   - Taiwan_Chiayi City_trojan_1127
   - United Kingdom_None_vmess_1128
-  - None_None_trojan_1129
+  - United States_San Francisco_trojan_1129
   - None_None_trojan_1130
   - None_None_trojan_1131
   - None_None_trojan_1132
   - None_None_trojan_1133
-  - None_None_trojan_1134
+  - United States_San Francisco_trojan_1134
   - United States_San Francisco_trojan_1135
   - None_None_trojan_1136
   - None_None_trojan_1137
@@ -1374,7 +1374,7 @@ proxy-groups:
   - None_None_trojan_1145
   - None_None_trojan_1146
   - None_None_trojan_1147
-  - None_None_trojan_1148
+  - United States_None_trojan_1148
   - United States_None_trojan_1149
   - None_None_trojan_1150
   - None_None_trojan_1151
