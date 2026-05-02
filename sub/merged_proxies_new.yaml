@@ -283,7 +283,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 2
   cipher: auto
-  name: United Kingdom_None_vmess_1114
+  name: Indonesia_Jakarta_vmess_1114
   port: 30806
   server: v6.hdacd.com
   type: vmess
@@ -659,7 +659,7 @@ proxy-groups:
   - United Kingdom_None_vmess_1111
   - Hong Kong_Central_vmess_1112
   - China_None_vmess_1113
-  - United Kingdom_None_vmess_1114
+  - Indonesia_Jakarta_vmess_1114
   - Taiwan_None_vmess_1115
   - Taiwan_None_vmess_1116
   - United States_None_trojan_1117
@@ -732,7 +732,7 @@ proxy-groups:
   - United Kingdom_None_vmess_1111
   - Hong Kong_Central_vmess_1112
   - China_None_vmess_1113
-  - United Kingdom_None_vmess_1114
+  - Indonesia_Jakarta_vmess_1114
   - Taiwan_None_vmess_1115
   - Taiwan_None_vmess_1116
   - United States_None_trojan_1117
